@@ -3,7 +3,7 @@ package edu.utvt.clase1;
 public class Variables {
     public static void main(String[] args) {
         boolean booleanVar = true;
-        System.out.println(booleanVar) ;
+        System.out.println(booleanVar ) ;
 
         int intValue = 100;
         System.out.println(intValue);
